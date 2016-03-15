@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>InfinityNet.TaijiRing.BaseElement.Consciousness</OriginalElement>
+  <nodes>
+    <node x="1566.0" y="207.0">InfinityNet.TaijiRing.Mind.Nerves.Nerves</node>
+    <node x="4420.0" y="297.0">InfinityNet.TaijiRing.Mind.Rules.MindRule</node>
+    <node x="1133.0" y="1588.0">InfinityNet.TaijiRing.Nature.EmotionLevel</node>
+    <node x="2148.671875" y="534.0">InfinityNet.TaijiRing.BaseElement.Action</node>
+    <node x="1549.0" y="1588.0">InfinityNet.TaijiRing.Category.ParticleType</node>
+    <node x="609.125" y="911.0">InfinityNet.TaijiRing.Particle.StabilizerYin</node>
+    <node x="871.0" y="1588.0">InfinityNet.TaijiRing.Particle.ExperienceParticle</node>
+    <node x="1341.0" y="1588.0">InfinityNet.TaijiRing.Nature.ElementLevel</node>
+    <node x="2855.0" y="0.0">InfinityNet.TaijiRing.Mind.Nerves.BaseRule</node>
+    <node x="489.0" y="809.0">InfinityNet.TaijiRing.Particle.ParticleYin</node>
+    <node x="0.0" y="1034.0">InfinityNet.TaijiRing.Mind.ChaosProcessor</node>
+    <node x="39.5" y="707.0">InfinityNet.TaijiRing.Mind.Chaos</node>
+    <node x="468.0" y="1588.0">InfinityNet.TaijiRing.BaseElement.ThinkingManager</node>
+    <node x="3202.8958333333335" y="534.0">InfinityNet.TaijiRing.BaseElement.Consciousness</node>
+    <node x="3401.0" y="297.0">InfinityNet.TaijiRing.Mind.Rules.MindRuleFilter</node>
+    <node x="0.0" y="1326.0">InfinityNet.TaijiRing.Experience.ExperienceBay</node>
+    <node x="933.0" y="707.0">InfinityNet.TaijiRing.Particle.Particle</node>
+    <node x="4079.0" y="297.0">InfinityNet.TaijiRing.Mind.Rules.ConsciousnessRule</node>
+    <node x="3060.0" y="297.0">InfinityNet.TaijiRing.Nature.Rules.TimesRule</node>
+    <node x="2719.0" y="297.0">InfinityNet.TaijiRing.Mind.Rules.ActionRule</node>
+    <node x="738.8593749999998" y="534.0">InfinityNet.TaijiRing.BaseElement.Thinking</node>
+    <node x="1325.0" y="1326.0">InfinityNet.TaijiRing.BaseElement.ActionManager</node>
+    <node x="0.0" y="1588.0">InfinityNet.TaijiRing.BaseElement.ConsciousnessManager</node>
+    <node x="750.0" y="297.0">InfinityNet.TaijiRing.Nature.Rules.EnvironmentRule</node>
+    <node x="409.0" y="297.0">InfinityNet.TaijiRing.Nature.Rules.EnvRuleFilter</node>
+    <node x="1091.0" y="297.0">InfinityNet.TaijiRing.Nature.Rules.RegionPolicyRule</node>
+    <node x="1195.875" y="911.0">InfinityNet.TaijiRing.Particle.StabilizerYang</node>
+    <node x="1750.0" y="1588.0">InfinityNet.TaijiRing.Category.ChaosType</node>
+    <node x="1337.0" y="809.0">InfinityNet.TaijiRing.Particle.ParticleYang</node>
+    <node x="0.0" y="1761.0">InfinityNet.TaijiRing.Nature.RuleLevel</node>
+    <node x="646.0" y="794.0">InfinityNet.TaijiRing.Mind.ParticleMerging</node>
+    <node x="0.0" y="297.0">InfinityNet.TaijiRing.Mind.Rules.ThinkingRule</node>
+    <node x="1432.0" y="312.0">InfinityNet.TaijiRing.Mind.Stabilize</node>
+    <node x="3738.0" y="297.0">InfinityNet.TaijiRing.Mind.Rules.MevolutionRule</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="InfinityNet.TaijiRing.Particle.StabilizerYin" target="InfinityNet.TaijiRing.Particle.ParticleYin">
+      <point x="-38.25" y="-18.5" />
+      <point x="647.375" y="886.0" />
+      <point x="557.5" y="886.0" />
+      <point x="0.0" y="18.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.BaseElement.Action" target="InfinityNet.TaijiRing.Mind.Rules.ActionRule">
+      <point x="71.33333333333348" y="-64.0" />
+      <point x="2327.005208333334" y="514.0" />
+      <point x="2879.5" y="514.0" />
+      <point x="0.0" y="33.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.Nature.Rules.EnvRuleFilter" target="InfinityNet.TaijiRing.Mind.Nerves.BaseRule">
+      <point x="0.0" y="-33.5" />
+      <point x="569.5" y="157.0" />
+      <point x="2913.5" y="157.0" />
+      <point x="-136.5" y="63.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.Mind.Rules.ActionRule" target="InfinityNet.TaijiRing.Mind.Nerves.BaseRule">
+      <point x="0.0" y="-33.5" />
+      <point x="2879.5" y="187.0" />
+      <point x="3030.5" y="187.0" />
+      <point x="-19.5" y="63.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.BaseElement.Thinking" target="InfinityNet.TaijiRing.Mind.Stabilize">
+      <point x="0.0" y="-64.0" />
+      <point x="856.3593749999998" y="504.0" />
+      <point x="1451.0" y="504.0" />
+      <point x="-38.0" y="18.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.Mind.Rules.MindRule" target="InfinityNet.TaijiRing.Mind.Nerves.BaseRule">
+      <point x="0.0" y="-33.5" />
+      <point x="4580.5" y="147.0" />
+      <point x="3225.5" y="147.0" />
+      <point x="175.5" y="63.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.Mind.Rules.MindRuleFilter" target="InfinityNet.TaijiRing.Mind.Nerves.BaseRule">
+      <point x="0.0" y="-33.5" />
+      <point x="3559.5" y="177.0" />
+      <point x="3108.5" y="177.0" />
+      <point x="58.5" y="63.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.Nature.Rules.TimesRule" target="InfinityNet.TaijiRing.Mind.Nerves.BaseRule">
+      <point x="0.0" y="-33.5" />
+      <point x="3220.5" y="187.0" />
+      <point x="3069.5" y="187.0" />
+      <point x="19.5" y="63.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.Mind.Rules.ThinkingRule" target="InfinityNet.TaijiRing.Mind.Nerves.BaseRule">
+      <point x="0.0" y="-33.5" />
+      <point x="194.5" y="147.0" />
+      <point x="2874.5" y="147.0" />
+      <point x="-175.5" y="63.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.Particle.ParticleYin" target="InfinityNet.TaijiRing.Particle.Particle">
+      <point x="0.0" y="-18.5" />
+      <point x="557.5" y="769.0" />
+      <point x="959.75" y="769.0" />
+      <point x="-26.75" y="18.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.BaseElement.Thinking" target="InfinityNet.TaijiRing.Mind.Nerves.Nerves">
+      <point x="78.33333333333326" y="-64.0" />
+      <point x="934.692708333333" y="514.0" />
+      <point x="1754.833333333333" y="514.0" />
+      <point x="-377.66666666666674" y="123.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.Mind.ChaosProcessor" target="InfinityNet.TaijiRing.Mind.Chaos">
+      <point x="0.0" y="-123.5" />
+      <point x="0.0" y="138.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.Particle.StabilizerYin" target="InfinityNet.TaijiRing.Mind.ParticleMerging">
+      <point x="38.25" y="-18.5" />
+      <point x="723.875" y="886.0" />
+      <point x="813.75" y="886.0" />
+      <point x="-167.75" y="33.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.Mind.Rules.ConsciousnessRule" target="InfinityNet.TaijiRing.Mind.Nerves.BaseRule">
+      <point x="0.0" y="-33.5" />
+      <point x="4239.5" y="157.0" />
+      <point x="3186.5" y="157.0" />
+      <point x="136.5" y="63.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.BaseElement.Consciousness" target="InfinityNet.TaijiRing.Mind.Stabilize">
+      <point x="-100.0" y="-64.0" />
+      <point x="3252.8958333333335" y="484.0" />
+      <point x="1527.0" y="484.0" />
+      <point x="38.0" y="18.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.BaseElement.Action" target="InfinityNet.TaijiRing.Mind.Nerves.Nerves">
+      <point x="0.0" y="-64.0" />
+      <point x="2255.671875" y="494.0" />
+      <point x="2132.5" y="494.0" />
+      <point x="0.0" y="123.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.BaseElement.Thinking" target="InfinityNet.TaijiRing.Mind.Rules.ThinkingRule">
+      <point x="-78.33333333333326" y="-64.0" />
+      <point x="778.0260416666665" y="514.0" />
+      <point x="194.5" y="514.0" />
+      <point x="0.0" y="33.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.Particle.ParticleYang" target="InfinityNet.TaijiRing.Particle.Particle">
+      <point x="0.0" y="-18.5" />
+      <point x="1415.5" y="769.0" />
+      <point x="1013.25" y="769.0" />
+      <point x="26.75" y="18.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.BaseElement.Consciousness" target="InfinityNet.TaijiRing.Mind.Rules.ConsciousnessRule">
+      <point x="100.0" y="-64.0" />
+      <point x="3452.8958333333335" y="514.0" />
+      <point x="4239.5" y="514.0" />
+      <point x="0.0" y="33.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.Mind.Rules.MevolutionRule" target="InfinityNet.TaijiRing.Mind.Nerves.BaseRule">
+      <point x="0.0" y="-33.5" />
+      <point x="3898.5" y="167.0" />
+      <point x="3147.5" y="167.0" />
+      <point x="97.5" y="63.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.Particle.StabilizerYang" target="InfinityNet.TaijiRing.Particle.ParticleYang">
+      <point x="43.25" y="-18.5" />
+      <point x="1325.625" y="886.0" />
+      <point x="1415.5" y="886.0" />
+      <point x="0.0" y="18.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.Nature.Rules.RegionPolicyRule" target="InfinityNet.TaijiRing.Mind.Nerves.BaseRule">
+      <point x="0.0" y="-33.5" />
+      <point x="1251.5" y="177.0" />
+      <point x="2991.5" y="177.0" />
+      <point x="-58.5" y="63.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.BaseElement.Consciousness" target="InfinityNet.TaijiRing.Mind.Nerves.Nerves">
+      <point x="0.0" y="-64.0" />
+      <point x="3352.8958333333335" y="474.0" />
+      <point x="2510.166666666667" y="474.0" />
+      <point x="377.66666666666697" y="123.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.Nature.Rules.EnvironmentRule" target="InfinityNet.TaijiRing.Mind.Nerves.BaseRule">
+      <point x="0.0" y="-33.5" />
+      <point x="910.5" y="167.0" />
+      <point x="2952.5" y="167.0" />
+      <point x="-97.5" y="63.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.BaseElement.Action" target="InfinityNet.TaijiRing.Mind.Stabilize">
+      <point x="-71.33333333333348" y="-64.0" />
+      <point x="2184.338541666667" y="504.0" />
+      <point x="1489.0" y="504.0" />
+      <point x="0.0" y="18.5" />
+    </edge>
+    <edge source="InfinityNet.TaijiRing.Particle.StabilizerYang" target="InfinityNet.TaijiRing.Mind.ParticleMerging">
+      <point x="-43.25" y="-18.5" />
+      <point x="1239.125" y="886.0" />
+      <point x="1149.25" y="886.0" />
+      <point x="167.75" y="33.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6184486373165619" x="740.0728813559322" y="966.1372881355932" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
